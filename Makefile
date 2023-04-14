@@ -6,5 +6,8 @@ $(DOCS):
 serve: $(DOCS)
 	cd docusaurus && npm run start
 
+publish: $(DOCS)
+	cd docusaurus && yarn deploy
+
 clean::
 	@rm -rf $(DOCS)
