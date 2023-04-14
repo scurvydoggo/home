@@ -7,4 +7,3 @@ ports:
   # docs site
   - port: 3000
     onOpen: open-preview
-
