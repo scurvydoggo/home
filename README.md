@@ -2,6 +2,8 @@
 
 Home-related life-admin stuff.
 
+**[Visit the Site](https://scurvydoggo.github.io/home)**
+
 ## Usage
 
 [Gitpod](https://gitpod.io) is the dev environment.

@@ -1,13 +1,19 @@
-DOCS := docusaurus/docs
+DOCS    := docusaurus/docs
+MODULES := docusaurus/node_modules
 
 $(DOCS):
 	cp -r docs $@
 
-serve: $(DOCS)
+$(MODULES):
+	cd docusaurus && npm install
+
+build: $(DOCS) $(MODULES)
+	cd docusaurus && npm run build
+
+serve: $(DOCS) $(MODULES)
 	cd docusaurus && npm run start
 
-publish: $(DOCS)
-	cd docusaurus && yarn deploy
-
 clean::
-	@rm -rf $(DOCS)
+	@rm -rf $(DOCS) $(MODULES)
+
+.PHONY := build serve clean
