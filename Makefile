@@ -2,7 +2,7 @@ DOCS    := docusaurus/docs
 MODULES := docusaurus/node_modules
 
 $(DOCS):
-	ln -s $(PWD)/docs $(PWD)/$@
+	cp -r docs $@
 
 $(MODULES):
 	cd docusaurus && npm install
