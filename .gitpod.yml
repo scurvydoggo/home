@@ -1,6 +1,10 @@
 image: gitpod/workspace-node
 
+tasks:
+  - command: zsh
+
 ports:
   # docs site
   - port: 3000
     onOpen: open-preview
+
