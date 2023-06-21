@@ -29,13 +29,13 @@ Also need.
 
 1. Rails
 
-- [70x35mm 3.6m](https://www.bunnings.com.au/70-x-35mm-outdoor-framing-mgp10-h3-treated-pine-3-6m_p8032107): $19.08
-- [70x35 3.0m](https://www.bunnings.com.au/70-x-35mm-outdoor-framing-mgp10-h3-treated-pine-3-0m_p8032105): $15.90
+    - [70x35mm 3.6m](https://www.bunnings.com.au/70-x-35mm-outdoor-framing-mgp10-h3-treated-pine-3-6m_p8032107): $19.08
+    - [70x35 3.0m](https://www.bunnings.com.au/70-x-35mm-outdoor-framing-mgp10-h3-treated-pine-3-0m_p8032105): $15.90
 
 1. Posts: Need 4 rect and 1 square
 
-- [90x45mm 4.8m](https://www.bunnings.com.au/90-x-45mm-outdoor-framing-mgp10-h3-treated-pine-4-8m_p8032180): $40.80
-- [80x80mm 1.8m](https://www.bunnings.com.au/88-x-88mm-1-8m-f7-h4-kd-treated-pine-premium-post_p8423171): $49
+    - [90x45mm 4.8m](https://www.bunnings.com.au/90-x-45mm-outdoor-framing-mgp10-h3-treated-pine-4-8m_p8032180): $40.80
+    - [88x88mm 1.8m](https://www.bunnings.com.au/88-x-88mm-1-8m-f7-h4-kd-treated-pine-premium-post_p8423171): $49
 
 Costs:
 
